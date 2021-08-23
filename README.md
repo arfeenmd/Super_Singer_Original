@@ -1,0 +1,3 @@
+Hello I'm Tom, This my first discord music bot which supports YouTube, Spotify, SoundCloud platforms. 
+Learner of Discord.js & Discord.py
+Thank you .....
